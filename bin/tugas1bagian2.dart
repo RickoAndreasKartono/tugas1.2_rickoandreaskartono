@@ -1,7 +1,7 @@
 import 'persegiPanjang.dart';
 
 void main() {
-  var nilai = persegiPanjang (5,3);
+  var nilai = persegiPanjang(5, 3);
   var keliling = nilai.hitungKeliling();
   var luas = nilai.hitungLuas();
 
